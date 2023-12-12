@@ -1,5 +1,5 @@
 # data_sourcing_challenge
-This is the start of my README file for Week 6 Challenge. For this challenge, I used soooo many sources: ChatGPT, GitHub Copilot, Bard, _Python Programming for Dummies_, _Hands-On Python Foundations Scenarios_ by Arianne Dee, examples from class, the assignment instrutions and supplied code, a tutor, my husband, and good ol' Google. 
+This is the start of my README file for Week 6 Challenge. For this challenge, I used soooo many sources: ChatGPT, GitHub Copilot, Bard, _Python Programming for Dummies_, _Hands-On Python Foundations Scenarios_ by Arianne Dee, examples from class, the assignment instructions and supplied code, a tutor, my husband, and good ol' Google. 
 
 And, unfortunately, the assignment instructions warned of calling too many files from the NYT API _after_ I performed the function correctly, then got an error at a later point, so I went back and deleted/recoded the previous sections. What I didn't do is see the warning which occurred _after_ the instructions of what to do, warning me about the NYT API limit. So, then I started throwing errors like a two-year-old throws tantrums.
 
